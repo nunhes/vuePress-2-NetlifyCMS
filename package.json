@@ -17,7 +17,7 @@
     "build": "vuepress build"
   },
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "1.9.7"
   },
   "prettier": {
     "singleQuote": true,
